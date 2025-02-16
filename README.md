@@ -1,7 +1,3 @@
-Here’s a draft for your **Calculator Builder** project README file for GitHub: 
-
----
-
 # Calculator Builder 🧮
 
 **Calculator Builder** is a dynamic tool for creating custom calculators based on user-defined operations. It allows users to easily configure, design, and generate calculators for specific use cases without extensive coding knowledge. The tool supports basic arithmetic operations as well as complex functions.
